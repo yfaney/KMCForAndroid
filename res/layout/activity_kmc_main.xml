@@ -1,0 +1,106 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/kmcbgimg"
+    tools:context=".KmcMainActivity" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/layout_title" />
+
+    <ImageButton
+        android:id="@+id/imageButtonVideo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageButtonNews"
+        android:layout_below="@+id/imageButtonNews"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/buttonselector2"
+        android:contentDescription="List Video"/>
+
+    <ImageButton
+        android:id="@+id/imageButtonPastor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageButtonVideo"
+        android:layout_below="@+id/imageButtonVideo"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/buttonselector3"/>
+
+    <ImageButton
+        android:id="@+id/imageButtonManna"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageButtonPastor"
+        android:layout_below="@+id/imageButtonPastor"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/buttonselector4"/>
+
+    <ImageButton
+        android:id="@+id/imageButtonNavi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textViewHomePage"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="35dip"
+        android:layout_marginBottom="10dip"
+        android:background="@drawable/buttonselector6" />
+
+    <ImageButton
+        android:id="@+id/imageButtonCall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textViewHomePage"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="35dip"
+        android:layout_marginBottom="10dip"
+        android:background="@drawable/buttonselector5" />
+
+    <ImageButton
+        android:id="@+id/imageButtonWedn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageButtonManna"
+        android:layout_below="@+id/imageButtonManna"
+        android:layout_marginTop="10dip"
+        android:background="@drawable/buttonselector7" />
+
+    <TextView
+        android:id="@+id/textViewHomePage"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView1"
+        android:layout_alignParentLeft="true"
+        android:gravity="center"
+        android:autoLink="web"
+        android:text="@string/str_homepage" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:text="@string/str_copyright" />
+
+    <ImageButton
+        android:id="@+id/imageButtonNews"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/buttonselector1"
+        android:contentDescription="@string/get_news"
+        android:scaleType="fitCenter" />
+    
+</RelativeLayout>

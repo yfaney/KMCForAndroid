@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="bible_book">
+	    <item>사도행전</item>
+	    <item>창세기/마태복음 족보</item>
+	    <item>고린도전서</item>
+	    <item>빌레몬서</item>
+	</string-array>
+	<!-- <string-array name="bible_book_url">
+		<item>bible_list1</item>
+		<item>bible_list2</item>
+		<item>bible_list3</item>
+	</string-array> -->
+	<string-array name="bible_book_url">
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdEVibnR2YURpR3hlS0ZLd2NpeEFjQnc#gid=17</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdFRLQndWLUxlc21KTjZiQWh3N0JsSnc#gid=0</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=31</item>
+		<item>https://docs.google.com/spreadsheet/pub?key=0Apmlv8nPPTEtdEd3cUhJZkJ5RU4ta0thekd6UVFGR1E</item>
+	</string-array>
+	<string-array name="bible_list1">
+		<item>사도행전 9장</item>
+		<item>사도행전 11장-2</item>
+		<item>사도행전 13장-1</item>
+		<item>사도행전 14장</item>
+	</string-array>
+	<string-array name="bible_list1_url">
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdEVibnR2YURpR3hlS0ZLd2NpeEFjQnc#gid=17</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdEVibnR2YURpR3hlS0ZLd2NpeEFjQnc#gid=20</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdEVibnR2YURpR3hlS0ZLd2NpeEFjQnc#gid=22</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdEVibnR2YURpR3hlS0ZLd2NpeEFjQnc#gid=23</item>
+	</string-array>
+	<string-array name="bible_list2">
+    	<item>창세기/마태복음 족보</item>
+	</string-array>
+	<string-array name="bible_list2_url">
+    	<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdFRLQndWLUxlc21KTjZiQWh3N0JsSnc#gid=0</item>
+	</string-array>
+	<string-array name="bible_list3">
+		<item>고린도전서 1장-1</item>
+		<item>고린도전서 1장-2</item>
+		<item>고린도전서 2장</item>
+		<item>고린도전서 3장</item>
+		<item>고린도전서 4장</item>
+		<item>고린도전서 5장</item>
+		<item>고린도전서 6장</item>
+		<item>고린도전서 7장</item>
+		<item>고린도전서 7장</item>
+		<item>고린도전서 8장</item>
+		<item>고린도전서 9장</item>
+		<item>고린도전서 10장</item>
+		<item>고린도전서 10장</item>
+		<item>고린도전서 11장</item>
+		<item>고린도전서 11장</item>
+		<item>고린도전서 12장</item>
+		<item>고린도전서 13장</item>
+		<item>고린도전서 14장</item>
+		<item>고린도전서 14장</item>
+		<item>고린도전서 15장</item>
+		<item>고린도전서 15장</item>
+		<item>고린도전서 16장</item>
+	</string-array>
+	<string-array name="bible_list3_url">
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=31</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=4</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=8</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=9</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=10</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=11</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=12</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=14</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=15</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=17</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=18</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=19</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=20</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=22</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=23</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=24</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=25</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=26</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=27</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=28</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=29</item>
+		<item>https://docs.google.com/spreadsheet/ccc?key=0Apmlv8nPPTEtdGMwRU1ZbmdHS0dibVRjWW9HNml6OWc#gid=30</item>
+	</string-array>    
+</resources>
